@@ -10,9 +10,9 @@ bash train.sh
 ```
 
 ## Inference
-1. Put your original image in the ./examples.
+1. Put your original image in ./examples.
 
-2. Download the [checkpoints](https://drive.google.com/drive/folders/1Y67UuFQiWqX5mA_1TBUs9FB4OUvazrZe?usp=drive_link).
+2. Download the [checkpoints](https://drive.google.com/drive/folders/1Y67UuFQiWqX5mA_1TBUs9FB4OUvazrZe?usp=drive_link) and put them in ./checkpoints.
 
 3. Configure the inference script and then run it.
 ```
