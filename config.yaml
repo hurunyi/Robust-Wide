@@ -1,0 +1,12 @@
+wm_enc_config:
+  image_size: 512
+  message_length: 64
+  in_channels: 3
+  channels: 64
+  norm_type: "batch"
+  final_skip: True
+wm_dec_config:
+  image_size: 512
+  message_length: 64
+  in_channels: 3
+  norm_type: "batch"
