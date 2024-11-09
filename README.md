@@ -1,5 +1,5 @@
-# Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing
-Official implementation of [Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing](https://arxiv.org/pdf/2402.12688) (ECCV2024)
+# Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing (ECCV2024)
+Official implementation of [Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing](https://arxiv.org/pdf/2402.12688)
 ## Train
 
 1. Download the [data](https://huggingface.co/datasets/timbrooks/instructpix2pix-clip-filtered) and put them into the data dir ./data.
