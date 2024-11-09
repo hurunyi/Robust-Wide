@@ -1,4 +1,5 @@
 # Robust-Wide
+Official implementation of [Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing](https://arxiv.org/pdf/2402.12688) (ECCV2024)
 ## Train
 
 1. Download the [data](https://huggingface.co/datasets/timbrooks/instructpix2pix-clip-filtered) and put them into the data dir ./data.
@@ -17,4 +18,17 @@ bash train.sh
 3. Configure the inference script and then run it.
 ```
 bash inference.sh
+```
+
+## Cite
+If you find this repository helpful, please cite the following:
+```
+@inproceedings{hu2025robust,
+  title={Robust-wide: Robust watermarking against instruction-driven image editing},
+  author={Hu, Runyi and Zhang, Jie and Xu, Ting and Li, Jiwei and Zhang, Tianwei},
+  booktitle={European Conference on Computer Vision},
+  pages={20--37},
+  year={2025},
+  organization={Springer}
+}
 ```
