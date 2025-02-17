@@ -1,4 +1,4 @@
-# Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing (ECCV2024)
+# [ECCV2024] Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing
 Official implementation of [Robust-Wide: Robust Watermarking Against Instruction-Driven Image Editing](https://arxiv.org/abs/2402.12688).
 ## Train
 
